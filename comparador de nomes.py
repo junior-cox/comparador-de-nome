@@ -1,4 +1,4 @@
-# esse codigo compara os nomes#
+# esse codigo compara os nomes
 while(True):
    nomepri=input('nome primario //')
    b=bool(True)
@@ -14,4 +14,4 @@ while(True):
       a=input('voce que troca o primario')
       if(a=='sim'):
          b=False
-#altor junior h o #
+#altor junior h o
